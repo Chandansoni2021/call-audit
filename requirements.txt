@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+boto3
+requests
+python-multipart
+python-dotenv
+openai-whisper
+torch
+ffmpeg-python
+PyPDF2
+scikit-learn
+nltk
+pandas
+pydub
+httpx 
+python-multipart
