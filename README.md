@@ -4,14 +4,14 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🎙️ **Audio Transcription** using Amazon Transcribe
-- ☁️ **Storage** of audio files in Amazon S3
-- 🧾 **Transcript & Metadata Management** using DynamoDB
-- 🧠 **LLM-based Q&A** using Amazon Bedrock (e.g., Claude, Titan, etc.)
-- 🧩 Custom Python logic for chunking, embedding, and retrieval
-- 🔍 Natural language interface to query call transcripts
+-  **Audio Transcription** using Amazon Transcribe
+-  **Storage** of audio files in Amazon S3
+-  **Transcript & Metadata Management** using DynamoDB
+-  **LLM-based Q&A** using Amazon Bedrock (e.g., Claude, Titan, etc.)
+-  Custom Python logic for chunking, embedding, and retrieval
+-  Natural language interface to query call transcripts
 
 ---
 
